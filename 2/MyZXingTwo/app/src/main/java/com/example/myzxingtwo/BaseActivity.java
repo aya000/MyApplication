@@ -8,8 +8,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.WindowManager;
 import android.widget.Toast;
 
+
 /**
  * Created by YiBei on 2017/12/14.
+ * 第一次提交文件夹有问题
  */
 
 public class BaseActivity extends AppCompatActivity {
